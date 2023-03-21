@@ -6,7 +6,7 @@
 
 11.1. [Базы данных, их типы](https://github.com/YundinMS/sdbhomeworks/blob/main/11.1_HW.md).
 
-11.2. [Кеширование Redis/memcached]().
+11.2. [Кеширование Redis/memcached](https://github.com/YundinMS/sdbhomeworks/blob/main/11.2_HW.md).
 
 11.3. [ELK]().
 
