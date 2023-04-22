@@ -10,7 +10,7 @@
 
 11.3. [ELK](https://github.com/YundinMS/sdbhomeworks/blob/main/11.3_HW.md).
 
-11.4. [Очереди RabbitMQ]().
+11.4. [Очереди RabbitMQ](https://github.com/YundinMS/sdbhomeworks/blob/main/11.4_HW.md).
 
 
 ## Модуль 12. Реляционные базы данных
