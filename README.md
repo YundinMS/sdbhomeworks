@@ -17,7 +17,7 @@
 
 12.1. [Базы данных](https://github.com/YundinMS/sdbhomeworks/blob/main/12.1_HW.md).
 
-12.2. [Работа с данными (DDL/DML)]().
+12.2. [Работа с данными (DDL/DML)](https://github.com/YundinMS/sdbhomeworks/blob/main/12.2_HW.md).
 
 12.3. [SQL. Часть 1]().
 
