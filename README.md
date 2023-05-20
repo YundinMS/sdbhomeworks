@@ -19,7 +19,7 @@
 
 12.2. [Работа с данными (DDL/DML)](https://github.com/YundinMS/sdbhomeworks/blob/main/12.2_HW.md).
 
-12.3. [SQL. Часть 1]().
+12.3. [SQL. Часть 1](https://github.com/YundinMS/sdbhomeworks/blob/main/12.3_HW.md).
 
 12.4. [SQL. Часть 2]().
 
