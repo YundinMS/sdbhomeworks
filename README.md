@@ -23,7 +23,7 @@
 
 12.4. [SQL. Часть 2](https://github.com/YundinMS/sdbhomeworks/blob/main/12.4_HW.md).
 
-12.5. [Индексы]().
+12.5. [Индексы](https://github.com/YundinMS/sdbhomeworks/blob/main/12.5_HW.md).
 
 12.6. [Репликация и масштабирование. Часть 1]().
 
