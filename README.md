@@ -25,7 +25,7 @@
 
 12.5. [Индексы](https://github.com/YundinMS/sdbhomeworks/blob/main/12.5_HW.md).
 
-12.6. [Репликация и масштабирование. Часть 1]().
+12.6. [Репликация и масштабирование. Часть 1](https://github.com/YundinMS/sdbhomeworks/blob/main/12.6_HW.md).
 
 12.7. [Репликация и масштабирование. Часть 2]().
 
