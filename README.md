@@ -27,7 +27,7 @@
 
 12.6. [Репликация и масштабирование. Часть 1](https://github.com/YundinMS/sdbhomeworks/blob/main/12.6_HW.md).
 
-12.7. [Репликация и масштабирование. Часть 2]().
+12.7. [Репликация и масштабирование. Часть 2](https://github.com/YundinMS/sdbhomeworks/blob/main/13.2_HW.md).
 
 12.8. [Резервное копирование]().
 
