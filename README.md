@@ -38,7 +38,7 @@
 
 13.1. [Уязвимости и атаки на информационные системы](https://github.com/YundinMS/sdbhomeworks/blob/main/13.1_HW.md).
 
-13.2. [Защита хоста]().
+13.2. [Защита хоста](https://github.com/YundinMS/sdbhomeworks/blob/main/13.2_HW.md).
 
 13.3. [Защита сети]().
 
