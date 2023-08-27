@@ -40,6 +40,6 @@
 
 13.2. [Защита хоста](https://github.com/YundinMS/sdbhomeworks/blob/main/13.2_HW.md).
 
-13.3. [Защита сети]().
+13.3. [Защита сети](https://github.com/YundinMS/sdbhomeworks/blob/main/13.3_HW.md).
 
 13.4. [Best practices современной информационной безопасности]().
